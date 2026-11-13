@@ -122,10 +122,12 @@ redirect_from:
 </div>
 
 # 🌐 我的博客
-<a class="blog-card" href="https://azurelandin.github.io/">
-  <div>
-    <div class="blog-card__title">访问我的个人博客</div>
-    <div class="blog-card__desc">azurelandin.github.io</div>
-  </div>
-  <span class="blog-card__arrow">前往博客 →</span>
-</a>
+<div class="blog-wrap">
+  <a class="blog-card" href="https://azurelandin.github.io/">
+    <span class="blog-card__info">
+      <span class="blog-card__title">访问我的个人博客</span>
+      <span class="blog-card__desc">azurelandin.github.io</span>
+    </span>
+    <span class="blog-card__arrow">前往博客 →</span>
+  </a>
+</div>

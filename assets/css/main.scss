@@ -484,13 +484,19 @@ h1:before, .anchor:before {
     }
 }
 
+.blog-card__info {
+    display: block;
+}
+
 .blog-card__title {
+    display: block;
     font-size: 1.02em;
     font-weight: 700;
     color: #0f172a;
 }
 
 .blog-card__desc {
+    display: block;
     font-size: 0.88em;
     color: #64748b;
     margin-top: 0.15em;
