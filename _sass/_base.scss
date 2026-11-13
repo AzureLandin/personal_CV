@@ -13,7 +13,7 @@
     padding-bottom: 0em;
     color: $text-color;
     font-family: $global-font-family;
-    line-height: 1.5;
+    line-height: 1.68;
   
     &.overflow--hidden {
       /* when primary navigation is visible, the content in the background won't scroll */
@@ -145,18 +145,14 @@
   li > code,
   figcaption > code,
   td > code {
-    padding-top: 0.1rem;
-    padding-bottom: 0.1rem;
-    font-size: $type-size-6;
+    padding: 0.12em 0.52em;
+    margin: 0 0.12em;
+    font-size: 0.85em;
+    font-weight: 500;
     background: $code-background-color;
-    border: 1px solid $lighter-gray;
-    border-radius: $border-radius;
-    box-shadow: $box-shadow;
-  
-    &:before, &:after {
-      letter-spacing: -0.2em;
-      content: "\00a0"; /* non-breaking space*/
-    }
+    border: 1px solid #dbeafe;
+    border-radius: 999px;
+    box-shadow: none;
   }
   
   /* horizontal rule */
