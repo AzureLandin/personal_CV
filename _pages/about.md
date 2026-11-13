@@ -21,12 +21,7 @@ redirect_from:
 # 📝 论文专利
 
 ### 英文
-暂无
-  
----
-
-### 中文
-暂无 
+**CROSS: Cross-chain Recovery-Oriented State Synchronization**, Lingxiao Yang, **Qixin Xu**, Enze Zhang, Lele Zheng. *NSS-SocialSec*, 2026. `Oral`
 
 <span class='anchor' id='-ryjx'></span>
 
@@ -35,16 +30,6 @@ redirect_from:
 - *2025.10* 获得 2025“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛英语组综合能力陕西师范大学校赛 `二等奖`
 - *2026.07* 获得 2026年陕西师范大学大学生数学建模校内竞赛 `一等奖`
 - *2026.11* 获得 2026年全国大学生数学建模大赛陕西省 `二等奖`
-  
-<span class='anchor' id='-xshy'></span>
-
-# 🏛️ 学术会议
-- 暂无
-
-<span class='anchor' id='-gzsx'></span>
-
-# 💻 工作实习
-- 暂无
 
 # 我的博客
 <a href="https://azurelandin.github.io/">[跳转至我的博客]</a>
