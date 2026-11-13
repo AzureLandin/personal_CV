@@ -19,8 +19,6 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利
-
-### 英文
 **CROSS: Cross-chain Recovery-Oriented State Synchronization**, Lingxiao Yang, **Qixin Xu**, Enze Zhang, Lele Zheng. *NSS-SocialSec*, 2026. `Oral` `🏆 Best Paper Award`
 
 <span class='anchor' id='-ryjx'></span>
