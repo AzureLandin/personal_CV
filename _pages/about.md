@@ -47,7 +47,7 @@ redirect_from:
 - 暂无
 
 # 我的博客
-<a href="https://lendingsm.github.io/">[跳转至我的博客]</a>
+<a href="https://azurelandin.github.io/">[跳转至我的博客]</a>
 
 
 
