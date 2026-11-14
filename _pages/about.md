@@ -79,6 +79,110 @@ redirect_from:
 </div>
 -->
 
+<div class="anchor" id="-kyxm"></div>
+
+# 💻 开源项目
+<div class="repo-grid">
+  <div class="repo-card">
+    <div class="repo-card__header">
+      <a class="repo-card__title" href="https://github.com/AzureLandin/SNNU-CS-FinalExam-Reference">SNNU-CS-FinalExam-Reference</a>
+      <span class="repo-tag repo-tag--star">★ 12</span>
+    </div>
+    <div class="repo-card__desc">陕西师范大学人工智能与计算机学院课程攻略共享计划，收录历年期末试卷、实验指南、推导笔记与复习资料。</div>
+    <div class="repo-card__footer">
+      <div class="repo-card__tags">
+        <span class="repo-tag repo-tag--lang">Docs</span>
+        <span class="repo-tag">课程资料库</span>
+      </div>
+      <a class="repo-card__link" href="https://github.com/AzureLandin/SNNU-CS-FinalExam-Reference">GitHub ↗</a>
+    </div>
+  </div>
+  <div class="repo-card">
+    <div class="repo-card__header">
+      <a class="repo-card__title" href="https://github.com/AzureLandin/NodeShell">NodeShell</a>
+      <span class="repo-tag repo-tag--star">★ 3</span>
+    </div>
+    <div class="repo-card__desc">跨平台桌面 SSH 客户端，集成多会话终端、SFTP 文件管理、远程主机监控、端口映射及内置 AI Agent / 原生 MCP 服务。</div>
+    <div class="repo-card__footer">
+      <div class="repo-card__tags">
+        <span class="repo-tag repo-tag--lang">Go</span>
+        <span class="repo-tag">SSH · MCP</span>
+      </div>
+      <a class="repo-card__link" href="https://github.com/AzureLandin/NodeShell">GitHub ↗</a>
+    </div>
+  </div>
+  <div class="repo-card">
+    <div class="repo-card__header">
+      <a class="repo-card__title" href="https://github.com/AzureLandin/Lumen">Lumen</a>
+    </div>
+    <div class="repo-card__desc">基于 DWARF 调试信息的 C 语言语义反汇编 TUI 工具，支持源码与汇编双向同步、栈帧分析、寄存器追踪与跳转弧可视化。</div>
+    <div class="repo-card__footer">
+      <div class="repo-card__tags">
+        <span class="repo-tag repo-tag--lang">Rust</span>
+        <span class="repo-tag">DWARF · TUI</span>
+      </div>
+      <a class="repo-card__link" href="https://github.com/AzureLandin/Lumen">GitHub ↗</a>
+    </div>
+  </div>
+  <div class="repo-card">
+    <div class="repo-card__header">
+      <a class="repo-card__title" href="https://github.com/AzureLandin/SNNU-Web-SDK">SNNU-Web-SDK</a>
+    </div>
+    <div class="repo-card__desc">陕西师范大学官网、教务处与研究生院通知公告 Python SDK（支持列表与正文提取），并提供 Hermes MCP Server。</div>
+    <div class="repo-card__footer">
+      <div class="repo-card__tags">
+        <span class="repo-tag repo-tag--lang">Python</span>
+        <span class="repo-tag">SDK · MCP</span>
+      </div>
+      <a class="repo-card__link" href="https://github.com/AzureLandin/SNNU-Web-SDK">GitHub ↗</a>
+    </div>
+  </div>
+  <div class="repo-card">
+    <div class="repo-card__header">
+      <a class="repo-card__title" href="https://github.com/AzureLandin/cet-agent">cet-agent</a>
+      <span class="repo-tag repo-tag--star">★ 1</span>
+    </div>
+    <div class="repo-card__desc">面向大学英语四、六级备考的 Web 学习助手，提供写作批改、阅读精读与翻译训练的流式 AI 对话服务。</div>
+    <div class="repo-card__footer">
+      <div class="repo-card__tags">
+        <span class="repo-tag repo-tag--lang">Python</span>
+        <span class="repo-tag">Flask · LLM</span>
+      </div>
+      <a class="repo-card__link" href="https://github.com/AzureLandin/cet-agent">GitHub ↗</a>
+    </div>
+  </div>
+  <div class="repo-card">
+    <div class="repo-card__header">
+      <a class="repo-card__title" href="https://github.com/AzureLandin/knowledge-examiner">knowledge-examiner</a>
+    </div>
+    <div class="repo-card__desc">面向 Claude Code 的自适应考官 Agent Skill，支持选择题与开放题评测、即时反馈及薄弱点重测报告。</div>
+    <div class="repo-card__footer">
+      <div class="repo-card__tags">
+        <span class="repo-tag repo-tag--lang">Agent Skill</span>
+        <span class="repo-tag">AI Evaluation</span>
+      </div>
+      <a class="repo-card__link" href="https://github.com/AzureLandin/knowledge-examiner">GitHub ↗</a>
+    </div>
+  </div>
+</div>
+
+<!-- 新增开源项目可复制以下卡片放到 .repo-grid 内：
+  <div class="repo-card">
+    <div class="repo-card__header">
+      <a class="repo-card__title" href="https://github.com/AzureLandin/仓库名">仓库名</a>
+      <span class="repo-tag repo-tag--star">★ 0</span>
+    </div>
+    <div class="repo-card__desc">一句话介绍项目功能与亮点。</div>
+    <div class="repo-card__footer">
+      <div class="repo-card__tags">
+        <span class="repo-tag repo-tag--lang">语言</span>
+        <span class="repo-tag">标签</span>
+      </div>
+      <a class="repo-card__link" href="https://github.com/AzureLandin/仓库名">GitHub ↗</a>
+    </div>
+  </div>
+-->
+
 <div class="anchor" id="-ryjx"></div>
 
 # 🏅 荣誉奖项
