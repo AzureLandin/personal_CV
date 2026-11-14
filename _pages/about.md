@@ -85,20 +85,6 @@ redirect_from:
 <div class="repo-grid">
   <div class="repo-card">
     <div class="repo-card__header">
-      <a class="repo-card__title" href="https://github.com/AzureLandin/SNNU-CS-FinalExam-Reference">SNNU-CS-FinalExam-Reference</a>
-      <span class="repo-tag repo-tag--star">★ 12</span>
-    </div>
-    <div class="repo-card__desc">陕西师范大学人工智能与计算机学院课程攻略共享计划，收录历年期末试卷、实验指南、推导笔记与复习资料。</div>
-    <div class="repo-card__footer">
-      <div class="repo-card__tags">
-        <span class="repo-tag repo-tag--lang">Docs</span>
-        <span class="repo-tag">课程资料库</span>
-      </div>
-      <a class="repo-card__link" href="https://github.com/AzureLandin/SNNU-CS-FinalExam-Reference">GitHub ↗</a>
-    </div>
-  </div>
-  <div class="repo-card">
-    <div class="repo-card__header">
       <a class="repo-card__title" href="https://github.com/AzureLandin/NodeShell">NodeShell</a>
       <span class="repo-tag repo-tag--star">★ 3</span>
     </div>
@@ -122,19 +108,6 @@ redirect_from:
         <span class="repo-tag">DWARF · TUI</span>
       </div>
       <a class="repo-card__link" href="https://github.com/AzureLandin/Lumen">GitHub ↗</a>
-    </div>
-  </div>
-  <div class="repo-card">
-    <div class="repo-card__header">
-      <a class="repo-card__title" href="https://github.com/AzureLandin/SNNU-Web-SDK">SNNU-Web-SDK</a>
-    </div>
-    <div class="repo-card__desc">陕西师范大学官网、教务处与研究生院通知公告 Python SDK（支持列表与正文提取），并提供 Hermes MCP Server。</div>
-    <div class="repo-card__footer">
-      <div class="repo-card__tags">
-        <span class="repo-tag repo-tag--lang">Python</span>
-        <span class="repo-tag">SDK · MCP</span>
-      </div>
-      <a class="repo-card__link" href="https://github.com/AzureLandin/SNNU-Web-SDK">GitHub ↗</a>
     </div>
   </div>
   <div class="repo-card">
